@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semias&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semias&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semias)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Semias/Semias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

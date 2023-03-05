@@ -1,8 +1,8 @@
 👋 Media Designer, Frontend Dev and CS Student
 
 # Skills:
-- 🅰 - Angular
 - 💻 - HTML, CSS, Javascript
+- 🅰 - Angular
 - 🔵 - Typescript
 - 🟢 - Vue.js
 

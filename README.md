@@ -1,5 +1,10 @@
-### 👋
-Media Designer, Frontend Dev and CS Student
+👋 Media Designer, Frontend Dev and CS Student
+
+# Skills:
+- 🅰 - Angular
+- 💻 - HTML, CSS, Javascript
+- 🔵 - Typescript
+- 🟢 - Vue.js
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semias)](https://github.com/anuraghazra/github-readme-stats) -->
 

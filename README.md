@@ -1,4 +1,4 @@
-**Media Designer - Frontend - CS Student**
+**Media Design - Frontend - CS Student**
 
 # Skills:
 - 💻 - HTML, CSS, Javascript

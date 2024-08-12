@@ -1,6 +1,4 @@
-**Media Design - Frontend - CS Student**
-
-# Skills:
+# Tech Stack:
 - 💻 - HTML, CSS, Javascript
 - 🅰 - Angular
 - 🔵 - Typescript

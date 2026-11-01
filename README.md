@@ -3,3 +3,4 @@
 - 🅰 - Angular
 - 🔵 - Typescript
 - ®️ - React/Nextjs
+- 🔴 - NestJS

@@ -6,4 +6,7 @@
 - 🔴 - NestJS
 - 🐍 - Python
 
-Secure Software Development, Agentic Software Engineering
+I love building an creating digital Products. 
+
+- Secure Software Development
+- Agentic Software Engineering

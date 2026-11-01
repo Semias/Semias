@@ -5,3 +5,5 @@
 - ®️ - React/Nextjs
 - 🔴 - NestJS
 - 🐍 - Python
+
+Secure Software Development, Agentic Software Engineering

@@ -4,3 +4,4 @@
 - 🔵 - Typescript
 - ®️ - React/Nextjs
 - 🔴 - NestJS
+- 🐍 - Python

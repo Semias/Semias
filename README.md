@@ -1,7 +1,7 @@
 # Hi👋
 
 Full-Stack Software Engineer working with TypeScript, Node.js and C#/.NET.
-I love building digital products and turning ideas into products. 
+I love turning ideas into digital products that create real value.
 
 ## 🎯 Focus Areas
 
